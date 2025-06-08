@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 - 🌱 I’m currently learning new programming languages and frameworks.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web development, Python, and JavaScript.
+- 💬 Contact me for any opportunity: https://www.linkedin.com/in/sanchit-sharma-35740a172/.
 - 📫 How to reach me: [ssharmas10662@gmail.com](mailto:ssharmas10662@gmail.com)
 - ⚡ Fun fact: I enjoy hiking and reading sci-fi novels.
 
