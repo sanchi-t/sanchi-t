@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 📈 GitHub Stats
 
-![Sanchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchi-t&show_icons=true&theme=radical)
+![Sanchi's GitHub stats](https://github-readme-stats-inky-nu-30.vercel.app/api?username=sanchi-t&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
